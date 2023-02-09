@@ -76,5 +76,5 @@ class PDF{
        }
     }
 }
-
+ 
 export default new PDF
